@@ -14,11 +14,6 @@ Tyler Hunter
 
 Akshay Choudhary
 
-I-Shoe is a social marketplace designed for sneakerheads to step up their shoe game. 
-Users can rent other's high end footwear for a period of time at a cost typically lower than buying retail.
-
-
-
 ## Project Requirements:
 
 - Use a Node and Express Web Server
@@ -38,4 +33,8 @@ Users can rent other's high end footwear for a period of time at a cost typicall
 - Materialize for Front-End
 
 
-Creators: 
+### Application Use:
+I-Shoe is a social marketplace designed for sneakerheads to step up their shoe game. 
+Users can rent other's high end footwear for a period of time at a cost typically lower than buying retail.
+
+

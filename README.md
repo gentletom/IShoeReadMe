@@ -27,14 +27,24 @@ Akshay Choudhary
 
 
 ## Technologies use:
-- Node Express Web Server
-- MySQL Database
-- Heroku for Deployment
-- Materialize for Front-End
+
+### Node Express Web Server
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" width="350" height="250">
+### MySQL Database
+<img src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" width="350" height="250">
+### Heroku for Deployment
+<img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png" width="350" height="150">
+### Materialize for Front-End
+<img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" width="350" height="150">
 
 
 ### Application Use:
 I-Shoe is a social marketplace designed for sneakerheads to step up their shoe game. 
-Users can rent other's high end footwear for a period of time at a cost typically lower than buying retail.
+Users can rent other's high end footwear for a period of time at a cost typically lower than buying retail. 
+There are currently 3 pages that show the technology capabilities. 
+
+### How to Run File
+Website will be temporarily hosted on Heroku. You may clone the repository and host the website on your own.
+
 
 

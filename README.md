@@ -40,6 +40,12 @@ Akshay Choudhary
 ### Materialize for Front-End
 <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" width="350" height="150">
 
+### Sequelize
+<img src="https://www.aboutfase.com/wp-content/uploads/2015/05/sequelize-logo.png" width="350" height="250">
+
+### Handlebars
+<img src="https://devstickers.com/assets/img/cat/handlebars-js.png" width="350" height="250">
+
 
 ### Application Use:
 I-Shoe is a social marketplace designed for sneakerheads to step up their shoe game. 

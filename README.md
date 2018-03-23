@@ -26,7 +26,7 @@ Akshay Choudhary
 - Meet good quality coding standards (indentation, scoping, naming)
 
 
-## Technologies use:
+## Technologies used:
 
 ### Node Express Web Server
 <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png" width="350" height="250">

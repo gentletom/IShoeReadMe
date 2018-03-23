@@ -1,8 +1,6 @@
-# I-Shoe 
-
 <img src="https://i.imgur.com/kofoduk.png" width="250" height="250">
 
-## Project 2 - Georgia Tech Coding Bootcamp, Spring of 2018
+# Project 2 at Georgia Tech Coding Bootcamp, Spring of 2018
 ## Project Source can be downloaded from https://github.com/akshaychoudhary92/I-Shoe 
 
 ## Author & Contributer List

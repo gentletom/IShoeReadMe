@@ -1,4 +1,5 @@
-# I-Shoe
+# I-Shoe 
+![](https://imgur.com/a/uuX8d)
 ## Project 2 - Georgia Tech Coding Bootcamp, Spring of 2018
 ## Project Source can be downloaded from https://github.com/akshaychoudhary92/I-Shoe 
 

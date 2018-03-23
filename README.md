@@ -49,5 +49,13 @@ There are currently 3 pages that show the technology capabilities.
 ### How to Run File
 Website will be temporarily hosted on Heroku. You may clone the repository and host the website on your own.
 
+### Future Plans for Development
+This application meets all set requirements as dictated above. If we were to work further on this application there would be numerous things that could be done to finish the application:
+- We would need to revamp the UI with the intent of attracting users
+- The database would need to be expanded to allow for users to edit and add more shoe variation
+- More pages to allow for a more robust market exchange would need to be created
+- A payment authenticator / processesor API would need to be introduced to allow for transactions
+- Hosting would need to be migrated to a permanent location with expansive capabilities like AWS
+
 
 

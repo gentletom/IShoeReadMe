@@ -1,4 +1,4 @@
-Name of Application: I-Shoe
+# NameofApplication:I-Shoe
 
 I-Shoe is a social marketplace designed for sneakerheads to step up their shoe game. 
 Users can rent other's high end footwear for a period of time at a discount.

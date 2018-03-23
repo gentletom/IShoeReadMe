@@ -3,9 +3,7 @@
 I-Shoe is a social marketplace designed for sneakerheads to step up their shoe game. 
 Users can rent other's high end footwear for a period of time at a cost typically lower than buying retail.
 
-## Project 2 -- Georgia Tech Coding Bootcamp
-
-### Spring of 2018
+## Project 2 - Georgia Tech Coding Bootcamp, Spring of 2018
 
 ## Project Requirements:
 
@@ -26,7 +24,11 @@ Users can rent other's high end footwear for a period of time at a cost typicall
 - Meet good quality coding standards (indentation, scoping, naming).
 
 
-Technology use: Node Express Web Server, MySQL Database, Heroku for Deployment, Materialize for Front-End
+## Technologies use:
+- Node Express Web Server
+- MySQL Database
+- Heroku for Deployment
+- Materialize for Front-End
 
 
 

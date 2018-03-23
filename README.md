@@ -1,13 +1,13 @@
-# NameofApplication:I-Shoe
+# I-Shoe
 
 I-Shoe is a social marketplace designed for sneakerheads to step up their shoe game. 
-Users can rent other's high end footwear for a period of time at a discount.
+Users can rent other's high end footwear for a period of time at a cost typically lower than buying retail.
 
-Project 2 -- Georgia Tech Coding Bootcamp
+## Project 2 -- Georgia Tech Coding Bootcamp
 
-Spring of 2018
+### Spring of 2018
 
-Project Requirements:
+## Project Requirements:
 
 - Use a Node and Express Web Server;
 
